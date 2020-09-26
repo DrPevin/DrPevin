@@ -15,5 +15,13 @@
 ![](https://images.cooltext.com/5466654.png)
 <a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
 
-
+|     |              LUNES             |             MARTES             |            MIERCOLES           |             JUEVES             |             VIERNES            |
+|-----|:------------------------------:|:------------------------------:|:------------------------------:|:------------------------------:|:------------------------------:|
+| 1-2 |     TALLER DE BASE DE DATOS    |     TALLER DE BASE DE DATOS    |     TALLER DE BASE DE DATOS    |     TALLER DE BASE DE DATOS    |                                |
+| 2-3 |        PROGRAMACION WEB        |        PROGRAMACION WEB        |        PROGRAMACION WEB        |        PROGRAMACION WEB        |        PROGRAMACION WEB        |
+| 3-4 | ANALISIS AVANZADOS DE SOFTWARE | ANALISIS AVANZADOS DE SOFTWARE | ANALISIS AVANZADOS DE SOFTWARE | ANALISIS AVANZADOS DE SOFTWARE | ANALISIS AVANZADOS DE SOFTWARE |
+| 4-5 |  TALLER DE SISTEMAS OPERATIVOS |  TALLER DE SISTEMAS OPERATIVOS |  TALLER DE SISTEMAS OPERATIVOS |  TALLER DE SISTEMAS OPERATIVOS |  TALLER DE SISTEMAS OPERATIVOS |
+| 5-6 |      SITEMAS PROGRAMABLES      |      SITEMAS PROGRAMABLES      |      SITEMAS PROGRAMABLES      |      SITEMAS PROGRAMABLES      |                                |
+| 6-7 |      REDES DE COMPUTADORAS     |      REDES DE COMPUTADORAS     |      REDES DE COMPUTADORAS     |      REDES DE COMPUTADORAS     |      REDES DE COMPUTADORAS     |
+| 7-8 |    TALLER DE INVESTIGACION 2   |    TALLER DE INVESTIGACION 2   |    TALLER DE INVESTIGACION 2   |    TALLER DE INVESTIGACION 2   |                                |
 
